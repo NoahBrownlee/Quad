@@ -1,7 +1,9 @@
 # Quad
 
 Henry's Notes:
+
   'Duino Pinout:
+  
     M1 ESC Signal: D9
     M2 ESC Signal: D6
     M3 ESC Signal: D5
